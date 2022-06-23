@@ -1,0 +1,6 @@
+{
+    "git.enabled": false,
+    "search.useGlobalIgnoreFiles": true,
+    "javascript.format.enable": true,
+    "git.autorefresh": true
+}
