@@ -1,5 +1,5 @@
 {
-    "git.enabled": false,
+    "git.enabled": true,
     "search.useGlobalIgnoreFiles": true,
     "javascript.format.enable": true,
     "git.autorefresh": true
